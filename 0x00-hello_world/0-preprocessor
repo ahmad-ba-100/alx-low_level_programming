@@ -1,1 +1,1 @@
-#!/bin/bash/ngcc -F $CFILE -o c
+#!/bin/bash/ngcc  -F $CFILE -o c
