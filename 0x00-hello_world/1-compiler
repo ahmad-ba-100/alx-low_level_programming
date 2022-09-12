@@ -1,2 +1,7 @@
-#!/bin/bash
-gcc -E -o c $CFILE 
+int main(void)
+
+{
+
+    return (0);
+
+}
